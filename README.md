@@ -8,7 +8,7 @@ Usage:
 Download the file or directly paste this link to iptv player
 
 
-https://mgi24.github.io/iptv/IPTV OK 2026.m3u
+https://mgi24.github.io/iptv/iptv.m3u
 
 If your iptv is too old, you might get ssl error.
 Download the file manually then import the file
