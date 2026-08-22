@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 rzed — IPTV Indonesia Gratis · Playlist M3U & EPG XMLTV
+# IPTV Indonesia Gratis · Playlist M3U & EPG XMLTV
 
 ## 📖 Cara Pakai
 
