@@ -29,7 +29,7 @@ EPG sudah tertanam di header playlist.
 Channel **(V+)** / **(DASH/MPD)** memakai format **DASH + DRM ClearKey**. Hanya jalan di player yang support DRM:
 - ✅ **TiviMate**, **OTT Navigator** — native
 - ✅ **Kodi** — install `InputStream Adaptive`
-- ❌ **VLC / player bawaan Smart TV** — tidak support DRM → pakai playlist **OTT** atau channel grup **⚽ Bola Indonesia**
+- ❌ **VLC / player bawaan Smart TV** — tidak support DRM → pakai playlist **OTT**
 
 ---
 
