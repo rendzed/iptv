@@ -80,3 +80,22 @@ Jadwal acara dalam format **XMLTV** supaya muncul di TiviMate, Kodi, OTT Navigat
 Channel tanpa jadwal asli tetap dibuatkan entry placeholder supaya terbaca semua IPTV player.
 
 ---
+
+
+## ⚠️ Disclaimer
+
+Repo ini **tidak meng-host, meng-upload, atau menyimpan konten media apa pun**. Semua link adalah playlist M3U yang mengarah ke stream yang sudah tersedia bebas di internet. Hak cipta tetap milik pemegang masing-masing. Baca lengkap di **[DISCLAIMER.md](DISCLAIMER.md)**.
+
+---
+
+## 📄 Lisensi
+
+[MIT License](LICENSE) — bebas dipakai, dimodifikasi, dan didistribusikan.
+
+---
+
+<div align="center">
+
+### ⭐ Kalau repo ini bermanfaat, kasih Star ya!
+
+Star membantu lebih banyak orang menemukan playlist IPTV Indonesia gratis ini.
