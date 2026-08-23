@@ -1261,12 +1261,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/defaul
 #EXTVLCOPT:http-origin=http://www.biznetvideo.net
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=ZGw2r-CvzSlCW2-mTyu97hp8bHZXc9LY43O5moeKhLM1ppWpWrh6ZoIHFlbN75DU
 
-#EXTINF:-1 tvg-id="Biznet Adventure" tvg-logo="https://imgur.com/7wQXAi5.png" group-title="Lifestyle",Biznet Adventure
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
-#EXTVLCOPT:http-origin=http://www.biznetvideo.net
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
-
 #EXTINF:-1 tvg-id="auto.bbc.lifestyle" tvg-logo="https://imgur.com/hGz3crb.png" group-title="LIFESTYLE",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1501,6 +1495,12 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #################################################################### NATIONAL ENTERTAINMENT ####################################################################
 
+#EXTINF:-1 tvg-id="Biznet Adventure" tvg-logo="https://imgur.com/8mUazUC.png" group-title="NATIONAL ENTERTAINMENT",Biznet Adventure
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
+
 #EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://imgur.com/2rWBJvS.png" group-title="NATIONAL ENTERTAINMENT",Vision Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1547,8 +1547,8 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEn
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
 #EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-logo="https://imgur.com/8BcKZ2q.png" group-title="NATIONAL ENTERTAINMENT",Celebrities TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
@@ -1560,11 +1560,11 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
  
-#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://imgur.com/Rot18Al.png" group-title="NATIONAL ENTERTAINMENT", Max Reels
+#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://imgur.com/Rot18Al.png" group-title="NATIONAL ENTERTAINMENT",Max Reels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd
  
-#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://imgur.com/LUtBUs2.png" group-title="NATIONAL ENTERTAINMENT", Maxstream
+#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://imgur.com/LUtBUs2.png" group-title="NATIONAL ENTERTAINMENT",Maxstream
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
  
@@ -1591,11 +1591,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc512
 #EXTINF:-1 tvg-logo="https://imgur.com/RVguNCa.png" group-title="NATIONAL ENTERTAINMENT",El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
  
-#EXTINF:-1 
+#EXTINF:-1 tvg-logo="https://imgur.com/ae7deSN.png" group-title="NATIONAL ENTERTAINMENT",PSJ TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bestvnid.serv00.net/cubmu/1.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://imgur.com/ae7deSN.png" group-title="NATIONAL ENTERTAINMENT",PSJ TV
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
 
@@ -1667,6 +1666,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/in
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
  
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qIUeGOa.png" group-title="GENERAL ENTERTAINMENT",TRAVELXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Uu01mGN.png" group-title="GENERAL ENTERTAINMENT",WELLBEING TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
 #EXTINF:-1 tvg-id="518.astro" tvg-logo="https://imgur.com/SNAOWfR.png" group-title="GENERAL ENTERTAINMENT",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
@@ -2867,6 +2872,12 @@ https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://imgur.com/k6gVA30.png" group-title="PHILIPPINES 🇵🇭",Hope Channel Philippines
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+
+#EXTINF:-1 tvg-id="INCTV.ph@SD" tvg-logo="https://imgur.com/5wulfSi.png" group-title="PHILIPPINES 🇵🇭",INC TV
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="PHILIPPINES 🇵🇭",Living Asia Channel
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-logo="https://imgur.com/FMDCF7G.png" group-title="PHILIPPINES 🇵🇭",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
