@@ -1177,7 +1177,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/in
 #KODIPROP:inputstream.adaptive.license_key=02a01b19989c4f6699b83aead96fff14:89ac6f2178c855ce6bf9e9b7e45eecbb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
  
-#EXTINF:-1 tvg-id="FOXWeather" tvg-logo="https://imgur.com/XNi0d6g.png" group-title="WORLD NEWS",FOX Weather
+#EXTINF:-1 tvg-id="FOXWeather" tvg-logo="https://imgur.com/XNi0d6g.png" group-title="WEATHER",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
  
 #EXTINF:-1 tvg-id="Bloomberg.id" tvg-logo="https://imgur.com/ZpFLf6E.png" group-title="WORLD NEWS",Bloomberg
@@ -2960,27 +2960,39 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://imgur.com/w7kHKba.png" group-title="BANGLADESH 🇧🇩",Ananda TV
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://imgur.com/kHlBjmE.png" group-title="BANGLADESH 🇧🇩",Asian TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ATNBangla.bd@SD" tvg-logo="https://imgur.com/uJ7whpd.png" group-title="BANGLADESH 🇧🇩",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ATNNews.bd@SD" tvg-logo="https://imgur.com/TN7cVPg.png" group-title="BANGLADESH 🇧🇩",ATN News
 https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AzanTV.ca@SD" tvg-logo="https://imgur.com/1x0T1vt.png" group-title="BANGLADESH 🇧🇩",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BanglaTV.bd@SD" tvg-logo="https://imgur.com/u1qH06t.png" group-title="BANGLADESH 🇧🇩",Bangla TV
 https://tvsen6.aynaott.com/banglatv/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-logo="https://imgur.com/aLv3Ud0.png" group-title="BANGLADESH 🇧🇩",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BijoyTV.bd@SD" tvg-logo="https://imgur.com/40iAyKv.png" group-title="BANGLADESH 🇧🇩",Bijoy TV
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
+ 
+#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD" tvg-logo="https://imgur.com/evyTjH4.png" group-title="BANGLADESH 🇧🇩",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ChannelS.bd@SD" tvg-logo="https://imgur.com/8MHSNve.png" group-title="BANGLADESH 🇧🇩",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://imgur.com/kpyrlkT.png" group-title="BANGLADESH 🇧🇩",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="DBCNews.bd@SD" tvg-logo="https://imgur.com/wKsW8x8.png" group-title="BANGLADESH 🇧🇩",DBC News
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
 
 
@@ -2991,59 +3003,59 @@ https://tvsen6.aynaott.com/bijoytv/index.m3u8
 
 #EXTINF:-1 tvg-id="4UTV.tr@SD" tvg-logo="https://imgur.com/vmKpcM7.png" group-title="TURKEY 🇹🇷",4U TV
 https://hls.4utv.live/hls/stream.m3u8
-
+ 
 #EXTINF:-1 tvg-id="24TV.tr@SD" tvg-logo="https://imgur.com/UNfp9JC.png" group-title="TURKEY 🇹🇷",24 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="A2TV.tr@SD" tvg-logo="https://imgur.com/sjFnaj9.png" group-title="TURKEY 🇹🇷",A2TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AHaber.tr@SD" tvg-logo="https://imgur.com/4u83oUj.png" group-title="TURKEY 🇹🇷",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-logo="https://imgur.com/6UD8eDc.png" group-title="TURKEY 🇹🇷",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AkitTV.tr@SD" tvg-logo="https://imgur.com/r05W7uu.png" group-title="TURKEY 🇹🇷",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AksuTV.tr@SD" tvg-logo="https://imgur.com/Z4EN1KA.png" group-title="TURKEY 🇹🇷",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlanyaPostaTV.tr@SD" tvg-logo="https://imgur.com/UNE1Ezk.png" group-title="TURKEY 🇹🇷",Alanya Posta TV
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlmahriahTV.tr@SD" tvg-logo="https://imgur.com/MVkOdek.png" group-title="TURKEY 🇹🇷",Almahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AltasTV.tr@SD" tvg-logo="https://imgur.com/GNnvuky.png" group-title="TURKEY 🇹🇷",Altas TV
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD" tvg-logo="https://imgur.com/wqijAjt.png" group-title="TURKEY 🇹🇷",Anadolu Net TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://imgur.com/WtqrGP0.png" group-title="TURKEY 🇹🇷",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ATVAlanya.tr@SD" tvg-logo="https://imgur.com/7uBlJxM.png" group-title="TURKEY 🇹🇷",ATV Alanya
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BabyTV.uk@Turkiye" tvg-logo="https://imgur.com/DiEe3bv.png" group-title="TURKEY 🇹🇷",BabyTV Turkiye
 https://saran-live.ercdn.net/babytv/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" tvg-logo="https://imgur.com/f3FQWfT.png" group-title="TURKEY 🇹🇷",Benguturk TV
 http://185.234.111.229:8000/play/a05u
-
+ 
 #EXTINF:-1 tvg-id="BeyazTV.tr@SD" tvg-logo="https://imgur.com/pyuaQkZ.png" group-title="TURKEY 🇹🇷",Beyaz TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
-
+ 
 #EXTINF:-1 tvg-id="BizimevTV.tr@SD" tvg-logo="https://imgur.com/wDPS8RG.png" group-title="TURKEY 🇹🇷",Bizimev TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-logo="https://imgur.com/7t9XcKf.png" group-title="TURKEY 🇹🇷",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BRTV.tr@SD" tvg-logo="https://imgur.com/9Ut5hgl.png" group-title="TURKEY 🇹🇷",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 
@@ -3056,22 +3068,22 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://imgur.com/6FoPnGV.png" group-title="IRAN 🇮🇷",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-
+ 
 #EXTINF:-1 tvg-id="247BoxTV.ir@SD" tvg-logo="https://imgur.com/6WjFaRz.png" group-title="IRAN 🇮🇷",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AbadanTV.ir@SD" tvg-logo="https://imgur.com/QjQf990.png" group-title="IRAN 🇮🇷",Abadan
 https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AflakTV.ir@SD" tvg-logo="https://imgur.com/6WKfb5a.png" group-title="IRAN 🇮🇷",Aflak
 https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AFNTV.ir@SD" tvg-logo="https://imgur.com/bOljOn9.png" group-title="IRAN 🇮🇷",AFN TV
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AfraFilm.ir@SD" tvg-logo="https://imgur.com/ehxAuEp.png" group-title="IRAN 🇮🇷",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AfraSeries.ir@SD" tvg-logo="https://imgur.com/ehxAuEp.png" group-title="IRAN 🇮🇷",Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
 
@@ -3084,31 +3096,31 @@ https://afrashls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AlGhadTV.eg@SD" tvg-logo="https://imgur.com/LyyjhTd.png" group-title="EGYPT 🇪🇬",Al Ghad TV
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://imgur.com/mnbvom5.png" group-title="EGYPT 🇪🇬",Al Masriyah
 http://185.9.2.18/chid_247/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="CBC.eg@SD" tvg-logo="https://imgur.com/LXNTKIf.png" group-title="EGYPT 🇪🇬",CBC
 https://flu.systemnet.tv/CBC/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://imgur.com/rSamqP5.png" group-title="EGYPT 🇪🇬",CBC Drama
 https://flu.systemnet.tv/CBCDrama/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="CBCSofra.eg@SD" tvg-logo="https://imgur.com/XXI6O3W.png" group-title="EGYPT 🇪🇬",CBC Sofra
 https://flu.systemnet.tv/CBCSofra/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="KoogiTV.eg@SD" tvg-logo="https://imgur.com/fIyM7Y8.png" group-title="EGYPT 🇪🇬",Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="MBC1EGYPT.eg@HD" tvg-logo="https://imgur.com/rbzpZb8.png" group-title="EGYPT 🇪🇬",MBC 1 EGYPT
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://imgur.com/vZDgy3t.png" group-title="EGYPT 🇪🇬",MBC Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-logo="https://imgur.com/SMj5RhO.png" group-title="EGYPT 🇪🇬",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" tvg-logo="https://imgur.com/0gjA12t.png" group-title="EGYPT 🇪🇬",MBC Masr Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
 
@@ -3121,46 +3133,46 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 
 #EXTINF:-1 tvg-id="AbuDhabiTV.ae@SD" tvg-logo="https://imgur.com/0s4alUg.png" group-title="UAE 🇦🇪",Abu Dhabi TV
 http://185.9.2.18/chid_326/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://imgur.com/T4hoz4G.png" group-title="UAE 🇦🇪",Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlShallalTV.ae@SD" tvg-logo="https://imgur.com/XZ0w6iV.png" group-title="UAE 🇦🇪",Al Shallal TV
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae@SD" tvg-logo="https://imgur.com/LGK29UQ.png" group-title="UAE 🇦🇪",Al Sharqiya Min Kabla
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlWoustaTV.ae@SD" tvg-logo="https://imgur.com/Gq11ChR.png" group-title="UAE 🇦🇪",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlYaumTV.ae@SD" tvg-logo="https://imgur.com/hehPi0v.png" group-title="UAE 🇦🇪",Al Yaum TV
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
-
+ 
 #EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-logo="https://imgur.com/gZufdde.png" group-title="UAE 🇦🇪",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-
+ 
 #EXTINF:-1 tvg-id="DubaiTVInternational.ae@SD" tvg-logo="https://imgur.com/AT1gtFb.png" group-title="UAE 🇦🇪",Dubai TV International
 http://185.9.2.18/chid_139/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://imgur.com/VNhdOiS.png" group-title="UAE 🇦🇪",MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="NourTV.ae@SD" tvg-logo="https://imgur.com/HpH8awy.png" group-title="UAE 🇦🇪",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-
+ 
 #EXTINF:-1 tvg-id="OSNMoviesAction.ae@SD" tvg-logo="https://imgur.com/rgWG73q.png" group-title="UAE 🇦🇪",OSN Movies Action
 http://116.90.120.151:8000/play/a0ax/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae@SD" tvg-logo="https://imgur.com/T43Adqf.png" group-title="UAE 🇦🇪",Peace TV Chinese
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Sharjah2.ae@SD" tvg-logo="https://imgur.com/6FpTYpj.png" group-title="UAE 🇦🇪",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="SharjahSports.ae@SD" tvg-logo="https://imgur.com/fyD7rwD.png" group-title="UAE 🇦🇪",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
-
+ 
 
 
 
@@ -3170,29 +3182,29 @@ https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" tvg-logo="https://imgur.com/6Y6Kv24.png" group-title="SAUDI ARABIA 🇸🇦",Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Aflam.sa@SD" tvg-logo="https://imgur.com/UNERQ4C.png" group-title="SAUDI ARABIA 🇸🇦",Aflam
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" tvg-logo="https://imgur.com/2b0EK1n.png" group-title="SAUDI ARABIA 🇸🇦",Al Arabiya English
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlEkhbariya.sa@SD" tvg-logo="https://imgur.com/rA9CZ7V.png" group-title="SAUDI ARABIA 🇸🇦",Al Ekhbariya
 https://aloula-redirect.vercel.app/4/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-logo="https://imgur.com/5zmfBP4.png" group-title="SAUDI ARABIA 🇸🇦",Al Hadath
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" tvg-logo="https://imgur.com/QrOxCKm.png" group-title="SAUDI ARABIA 🇸🇦",Al Quran Al Kareem TV
 https://aloula-redirect.vercel.app/7/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlResalah.sa@SD" tvg-logo="https://imgur.com/x6etLap.png" group-title="SAUDI ARABIA 🇸🇦",Al Resalah
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlSaudiya.sa@SD" tvg-logo="https://imgur.com/2vkffay.png" group-title="SAUDI ARABIA 🇸🇦",Al Saudiya
 https://aloula-redirect.vercel.app/2/playlist.m3u8
-
+ 
 
 
 
@@ -3201,32 +3213,32 @@ https://aloula-redirect.vercel.app/2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACNN.ng@SD" tvg-logo="https://imgur.com/ESsza3y.png" group-title="NIGERIA 🇳🇬",ACNN
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AdvocateBroadcastingNetwork.ng@SD" tvg-logo="https://imgur.com/zhUjdpb.png" group-title="NIGERIA 🇳🇬",Advocate Broadcasting Network
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AMusicChannel.ng@SD" tvg-logo="https://imgur.com/ktMKuXT.png" group-title="NIGERIA 🇳🇬",AMusic Channel
 http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ApprovalTV.ng@HD" tvg-logo="https://imgur.com/HREqQFK.png" group-title="NIGERIA 🇳🇬",Approval TV
 #EXTVLCOPT:http-referrer=https://live.approvaltv.com/
 https://live.approvaltv.com/approvaltv/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BCSStarCrossTV.ng@SD" tvg-logo="https://imgur.com/wOUrRjO.png" group-title="NIGERIA 🇳🇬",BCS StarCross TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BrideTV.ng@SD" tvg-logo="https://imgur.com/UXMU7Vd.png" group-title="NIGERIA 🇳🇬",Bride TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Channels24.ng@SD" tvg-logo="https://imgur.com/c3pWwOo.png" group-title="NIGERIA 🇳🇬",Channels 24
 https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ChannelsTV.ng@SD" tvg-logo="https://imgur.com/c3pWwOo.png" group-title="NIGERIA 🇳🇬",Channels TV
 https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="CozaTV.ng@SD" tvg-logo="https://imgur.com/uMoFIpl.png" group-title="NIGERIA 🇳🇬",Coza TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
-
+ 
 
 
 
@@ -3236,28 +3248,28 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="1KZNTV.za@SD" tvg-logo="https://imgur.com/hjbHj4w.png" group-title="SOUTH AFRICA 🇿🇦",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="CapeTownTV.za@SD" tvg-logo="https://imgur.com/HiExo2d.png" group-title="SOUTH AFRICA 🇿🇦",Cape Town TV
 https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="CrimeandEvidence.za@SD" tvg-logo="https://imgur.com/cpeTuCt.png" group-title="SOUTH AFRICA 🇿🇦",Crime and Evidence
 https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="etvNewsSport.za@SD" tvg-logo="https://imgur.com/nJNbsBz.png" group-title="SOUTH AFRICA 🇿🇦",ETVN
 https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="FaithTV.za@SD" tvg-logo="https://imgur.com/W0jL1z3.png" group-title="SOUTH AFRICA 🇿🇦",Faith TV
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="GNFTV.za@SD" tvg-logo="https://imgur.com/fcHRrMj.png" group-title="SOUTH AFRICA 🇿🇦",GNF TV
 https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="LN24SA.za@SD" tvg-logo="https://imgur.com/c3j8vfr.png" group-title="SOUTH AFRICA 🇿🇦",LN24SA
 https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" tvg-logo="https://imgur.com/SaxOe3s.png" group-title="SOUTH AFRICA 🇿🇦",LoveworldSAT
 https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
-
+ 
 
 
 
@@ -3267,16 +3279,16 @@ https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="AkiliKids.ke@SD" tvg-logo="https://imgur.com/1Uyfng5.png" group-title="KENYA 🇰🇪",Akili Kids!
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AviationTV.ke@SD" tvg-logo="https://imgur.com/YEoLQnx.png" group-title="KENYA 🇰🇪",Aviation TV
 http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="CapuchinTV.ke@SD" tvg-logo="https://imgur.com/1np7L5F.png" group-title="KENYA 🇰🇪",Capuchin TV
 https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="GreatCommissionTV.ke@SD" tvg-logo="https://imgur.com/D7fDBz4.png" group-title="KENYA 🇰🇪",Great Commission TV
 https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
-
+ 
 
 
 
@@ -3286,65 +3298,65 @@ https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
 
 #EXTINF:-1 tvg-id="5Cops.us@UK" tvg-logo="https://imgur.com/9HegXdE.png" group-title="UNITED KINGDOM 🇬🇧",5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
-
+ 
 #EXTINF:-1 tvg-id="48Hours.us@GB" tvg-logo="https://imgur.com/RXQdd9f.png" group-title="UNITED KINGDOM 🇬🇧",48 Hours GB
 https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://imgur.com/lvozhew.png" group-title="UNITED KINGDOM 🇬🇧",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-logo="https://imgur.com/4PyEIqM.png" group-title="UNITED KINGDOM 🇬🇧",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AkaalChannel.uk@SD" tvg-logo="https://imgur.com/uoJ3zml.png" group-title="UNITED KINGDOM 🇬🇧",Akaal Channel
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AmericasNextTopModel.de@GB" tvg-logo="https://imgur.com/EpE9Ipp.png" group-title="UNITED KINGDOM 🇬🇧",America's Next Top Model
 https://jmp2.uk/plu-686cd713e48af72bc250efb8.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Andromeda.us@UK" tvg-logo="https://imgur.com/FbRMWZd.png" group-title="UNITED KINGDOM 🇬🇧",Andromeda
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us@UK" tvg-logo="https://imgur.com/ne5JQrT.png" group-title="UNITED KINGDOM 🇬🇧",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://imgur.com/gsVSf3l.png" group-title="UNITED KINGDOM 🇬🇧",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AuctionHunters.de@GB" tvg-logo="https://imgur.com/t67gs6v.png" group-title="UNITED KINGDOM 🇬🇧",Auction Hunters
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://imgur.com/3sunPEO.png" group-title="UNITED KINGDOM 🇬🇧",Autentic History
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AutenticTravel.de@SD" tvg-logo="https://imgur.com/rbtVIlu.png" group-title="UNITED KINGDOM 🇬🇧",Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Avatar.de@GB" tvg-logo="https://imgur.com/iiVT0Ue.png" group-title="UNITED KINGDOM 🇬🇧",Avatar
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BBCAlba.uk@SD" tvg-logo="https://imgur.com/KuPSmaP.png" group-title="UNITED KINGDOM 🇬🇧",BBC Alba (HEVC)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
-
+ 
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://imgur.com/4vvZJUR.png" group-title="UNITED KINGDOM 🇬🇧",BBC Four HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
-
+ 
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://imgur.com/T4KdWNi.png" group-title="UNITED KINGDOM 🇬🇧",BBC Four/CBeebies
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-logo="https://imgur.com/UWeWW1L.png" group-title="UNITED KINGDOM 🇬🇧",BBC Lifestyle Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-logo="https://imgur.com/VyVuQtH.png" group-title="UNITED KINGDOM 🇬🇧",BBC News Pashto
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-
+ 
 #EXTINF:-1 tvg-id="BBCNews.uk@UKHD" tvg-logo="https://imgur.com/wCjSsVX.png" group-title="UNITED KINGDOM 🇬🇧",BBC News UK HD
 http://45.153.96.44:8001
-
+ 
 #EXTINF:-1 tvg-id="BBCOne.uk@East" tvg-logo="https://imgur.com/ceafMAZ.png" group-title="UNITED KINGDOM 🇬🇧",BBC One East
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
-
+ 
 
 
 
@@ -3437,46 +3449,46 @@ https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 
 #EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://imgur.com/KmyFKm1.png" group-title="GERMANY 🇩🇪",1-2-3 TV
 https://123tv-mx1.flex-cdn.net/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="3sat.de@SD" tvg-logo="https://imgur.com/oZSEtx6.png" group-title="GERMANY 🇩🇪",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-
+ 
 #EXTINF:-1 tvg-id="3sat.de@HD" tvg-logo="https://imgur.com/oZSEtx6.png" group-title="GERMANY 🇩🇪",3sat HD
 http://41.205.77.102/3SAT/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="90210.de@DACH" tvg-logo="https://imgur.com/jBJ9Pxq.png" group-title="GERMANY 🇩🇪",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlexBerlin.de@SD" tvg-logo="https://imgur.com/LOC13X5.png" group-title="GERMANY 🇩🇪",Alex Berlin
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AllehassenChris.de@DACH" tvg-logo="https://imgur.com/TtwdZFL.png" group-title="GERMANY 🇩🇪",Alle hassen Chris
 https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AllgauTV.de@SD" tvg-logo="https://imgur.com/XOrwshu.png" group-title="GERMANY 🇩🇪",Allgäu TV
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AltenburgTV.de@SD" tvg-logo="https://imgur.com/Ah5Prfm.png" group-title="GERMANY 🇩🇪",Altenburg TV
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD" tvg-logo="https://imgur.com/K5A2twi.png" group-title="GERMANY 🇩🇪",ANIMAL KINGDOM
 https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://imgur.com/e6W2IV8.png" group-title="GERMANY 🇩🇪",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-
+ 
 #EXTINF:-1 tvg-id="arte.de@SD" tvg-logo="https://imgur.com/7FmsFlF.png" group-title="GERMANY 🇩🇪",ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="arte.de@HD" tvg-logo="https://imgur.com/7FmsFlF.png" group-title="GERMANY 🇩🇪",arte HD
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AugsburgTV.de@SD" tvg-logo="https://imgur.com/EUwlboA.png" group-title="GERMANY 🇩🇪",Augsburg TV
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Awkward.de@DACH" tvg-logo="https://imgur.com/Hu8NWbJ.png" group-title="GERMANY 🇩🇪",Awkward
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BadenTVSud.de@SD" tvg-logo="https://imgur.com/aMCEIRN.png" group-title="GERMANY 🇩🇪",Baden TV Süd
 https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
 
@@ -3489,40 +3501,62 @@ https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://imgur.com/WTHTUXS.png" group-title="FRANCE 🇫🇷",6ter
 http://145.239.5.177/314/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" tvg-logo="https://imgur.com/SeaNCO1.png" group-title="FRANCE 🇫🇷",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AB1.fr@SD" tvg-logo="https://imgur.com/zemsmHa.png" group-title="FRANCE 🇫🇷",AB1
 http://145.239.5.177/332/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Action.fr@HD" tvg-logo="https://imgur.com/aTD1keZ.png" group-title="FRANCE 🇫🇷",Action HD
 http://rezofoot.tv/Action/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" tvg-logo="https://imgur.com/KE8mhqF.png" group-title="FRANCE 🇫🇷",ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Africa24.fr@SD" tvg-logo="https://imgur.com/e33THTb.png" group-title="FRANCE 🇫🇷",Africa 24
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Africa24English.fr@SD" tvg-logo="https://imgur.com/t7GMD05.png" group-title="FRANCE 🇫🇷",Africa 24 English
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-logo="https://imgur.com/AyhnNtR.png" group-title="FRANCE 🇫🇷",Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-logo="https://imgur.com/IZC16fy.png" group-title="FRANCE 🇫🇷",Alerte à Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
-
+ 
 #EXTINF:-1 tvg-id="arte.fr@SD" tvg-logo="https://imgur.com/vR0hDYH.png" group-title="FRANCE 🇫🇷",arte
 http://145.239.5.177/300/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Automotolachaine.fr@SD" tvg-logo="https://imgur.com/ucxXGmt.png" group-title="FRANCE 🇫🇷",Automoto la chaine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://futbol9865.ultratv13.workers.dev/deportivo111/23.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BabyTV.uk@FranceHD" tvg-logo="https://imgur.com/Dqblqao.png" group-title="FRANCE 🇫🇷",BabyTV France HD
 http://41.223.30.230/BABYTV/index.m3u8
+ 
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@FR" tvg-logo="https://imgur.com/FbhbUeo.png" group-title="FRANCE 🇫🇷",Banijay Mr Bean Animé
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://imgur.com/BpXuizs.png" group-title="FRANCE 🇫🇷",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+ 
+#EXTINF:-1 tvg-id="BFMAlsace.fr@SD" tvg-logo="https://imgur.com/lyF4krJ.png" group-title="FRANCE 🇫🇷",BFM Alsace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+ 
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-logo="https://imgur.com/k3BKnhz.png" group-title="FRANCE 🇫🇷",BFM Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+ 
+#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr@SD" tvg-logo="https://imgur.com/IOBJ6MC.png" group-title="FRANCE 🇫🇷",BFM DICI Alpes du Sud
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
+ 
+#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr@SD" tvg-logo="https://imgur.com/IOBJ6MC.png" group-title="FRANCE 🇫🇷",BFM DICI Haute-Provence
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
 
 
 
@@ -3533,31 +3567,31 @@ http://41.223.30.230/BABYTV/index.m3u8
 
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://imgur.com/IyqZKut.png" group-title="SPAIN 🇪🇸",3Cat Càmeres del temps
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
-
+ 
 #EXTINF:-1 tvg-id="3CatElbunquer.es@SD" tvg-logo="https://imgur.com/UwSpnjN.png" group-title="SPAIN 🇪🇸",3Cat El búnquer
 https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
-
+ 
 #EXTINF:-1 tvg-id="3CatExclusiu1.es@SD" tvg-logo="https://imgur.com/5BYu2LM.png" group-title="SPAIN 🇪🇸",3Cat Exclusiu 1
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
-
+ 
 #EXTINF:-1 tvg-id="3CatExclusiu2.es@SD" tvg-logo="https://imgur.com/5BYu2LM.png" group-title="SPAIN 🇪🇸",3Cat Exclusiu 2
 https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
-
+ 
 #EXTINF:-1 tvg-id="3CatExclusiu3.es@SD" tvg-logo="https://imgur.com/5BYu2LM.png" group-title="SPAIN 🇪🇸",3Cat Exclusiu 3
 https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
-
+ 
 #EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-logo="https://imgur.com/FrvV6A5.png" group-title="SPAIN 🇪🇸",3Cat Plats bruts
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
-
+ 
 #EXTINF:-1 tvg-id="3CatInfo.es@SD" tvg-logo="https://imgur.com/PKl2KkR.png" group-title="SPAIN 🇪🇸",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD" tvg-logo="https://imgur.com/rnVLtt1.png" group-title="SPAIN 🇪🇸",7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="8LaMarinaTV.es@SD" tvg-logo="https://imgur.com/rXvxPju.png" group-title="SPAIN 🇪🇸",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
-
+ 
 
 
 
@@ -3567,35 +3601,35 @@ https://streaming005.gestec-video.com/hls/canal24.m3u8
 
 #EXTINF:-1 tvg-id="7YOUME.it@HD" tvg-logo="https://imgur.com/inAgNJ3.png" group-title="ITALY 🇮🇹",7 YOU & ME
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="16AnnieIncinta.de@IT" tvg-logo="https://imgur.com/AsGFxqv.png" group-title="ITALY 🇮🇹",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
-
+ 
 #EXTINF:-1 tvg-id="20.it@SD" tvg-logo="https://imgur.com/t2yMijX.png" group-title="ITALY 🇮🇹",20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://91.146.94.234:10001/play/a08s
-
+ 
 #EXTINF:-1 tvg-id="50Canale.it@SD" tvg-logo="https://imgur.com/MRLEMjz.png" group-title="ITALY 🇮🇹",50 Canale
 https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="51RadioTV.it@SD" tvg-logo="https://imgur.com/LOr4LYC.png" group-title="ITALY 🇮🇹",51 Radio TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="7080TV.it@SD" tvg-logo="https://imgur.com/x0m2crP.png" group-title="ITALY 🇮🇹",70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="111TV.it@SD" tvg-logo="https://imgur.com/IKVdrER.png" group-title="ITALY 🇮🇹",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="A2iTV.it@SD" tvg-logo="https://imgur.com/kwxjH7X.png" group-title="ITALY 🇮🇹",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://imgur.com/fO1isjv.png" group-title="ITALY 🇮🇹",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Adnkronos.it@SD" tvg-logo="https://imgur.com/h2aLIyP.png" group-title="ITALY 🇮🇹",Adnkronos
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
-
+ 
 
 
 
@@ -3605,65 +3639,65 @@ https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://imgur.com/e9mfpkt.png" group-title="BRAZIL 🇧🇷",A&E Latin America Brazil
 http://45.190.28.50/AE_HD/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://imgur.com/c8bOlQC.png" group-title="BRAZIL 🇧🇷",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://imgur.com/3o9Pds6.png" group-title="BRAZIL 🇧🇷",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" tvg-logo="https://imgur.com/o860rL9.png" group-title="BRAZIL 🇧🇷",Adult Swim Latin America Brazil
 http://45.190.28.50/TRUTV_HD/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://imgur.com/p3OdBvF.png" group-title="BRAZIL 🇧🇷",AgroCanal
 http://45.162.64.114/AGRO_CANAL/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-logo="https://imgur.com/frXCfId.png" group-title="BRAZIL 🇧🇷",AgroMais
 http://45.162.64.114/AGROMAIS/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlphaChannel.br@SD" tvg-logo="https://imgur.com/4CNToaj.png" group-title="BRAZIL 🇧🇷",Alpha Channel
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AmazonSat.br@SD" tvg-logo="https://imgur.com/HBdaMJ9.png" group-title="BRAZIL 🇧🇷",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-logo="https://imgur.com/OXcgX02.png" group-title="BRAZIL 🇧🇷",AMC Latin America Brazil
 http://45.190.156.152/AMC/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-logo="https://imgur.com/5PvDk5t.png" group-title="BRAZIL 🇧🇷",Angel TV Portuguese
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ArarunaTV.br@SD" tvg-logo="https://imgur.com/lrgy2A0.png" group-title="BRAZIL 🇧🇷",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AratuOn.br@SD" tvg-logo="https://imgur.com/GBCjfI4.png" group-title="BRAZIL 🇧🇷",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://imgur.com/aNh0Bor.png" group-title="BRAZIL 🇧🇷",Arte 1
 http://143.14.178.40:7777/Arte_1_HD/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AugeTV.br@SD" tvg-logo="https://imgur.com/fBzZ7tr.png" group-title="BRAZIL 🇧🇷",Auge TV
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AvatarAlendadeAang.us@BR" tvg-logo="https://imgur.com/37TYt2x.png" group-title="BRAZIL 🇧🇷",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
-
+ 
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 #EXTINF:-1 tvg-id="AWTV.br@HD" tvg-logo="https://imgur.com/xYeDCyv.png" group-title="BRAZIL 🇧🇷",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://imgur.com/Cupf2fb.png" group-title="BRAZIL 🇧🇷",AXN
 http://45.190.28.50/AXN_HD/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BabyFirst.us@Brazil" tvg-logo="https://imgur.com/tQSW4G1.png" group-title="BRAZIL 🇧🇷",Babyfirst
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
-
+ 
 #EXTINF:-1 tvg-id="BabyTV.uk@Brazil" tvg-logo="https://imgur.com/ChzV3Nr.png" group-title="BRAZIL 🇧🇷",BabyTV Brazil
 http://167.250.126.140:7777/BABYTV-HD/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Band.br@SD" tvg-logo="https://imgur.com/ox6rxbH.png" group-title="BRAZIL 🇧🇷",Band
 http://45.190.28.50/BAND_HD/index.m3u8
-
+ 
 
 
 
@@ -3673,46 +3707,52 @@ http://45.190.28.50/BAND_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://imgur.com/M9gn0Qy.png" group-title="MEXICO 🇲🇽",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="APlus.mx@SD" tvg-logo="https://imgur.com/RTZvz0i.png" group-title="MEXICO 🇲🇽",A+
 http://45.189.62.33:8002/play/a0oc/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AcustikTV.mx@SD" tvg-logo="https://imgur.com/StBpW4j.png" group-title="MEXICO 🇲🇽",Acustik TV
 https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://imgur.com/3y4XKPV.png" group-title="MEXICO 🇲🇽",ADN 40
 http://45.189.62.33:8002/play/a0ob/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AlcanceTV.mx@SD" tvg-logo="https://imgur.com/9ce3j7X.png" group-title="MEXICO 🇲🇽",Alcance TV
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AntenaTV.mx@SD" tvg-logo="https://imgur.com/Qnk5SY6.png" group-title="MEXICO 🇲🇽",Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" tvg-logo="https://imgur.com/938KWox.png" group-title="MEXICO 🇲🇽",AXN Latin America Mexico
 http://177.245.131.133:8080/AXN/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://imgur.com/WQzDDw3.png" group-title="MEXICO 🇲🇽",Azteca 7
 http://45.189.62.33:8002/play/a0fm/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://imgur.com/P3YmCGA.png" group-title="MEXICO 🇲🇽",Azteca Deportes Network
 http://38.194.226.190:8000/play/a02r/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://imgur.com/F2N4IWO.png" group-title="MEXICO 🇲🇽",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://imgur.com/LG0pHRa.png" group-title="MEXICO 🇲🇽",Azteca Uno
 http://45.189.62.33:8002/play/a0cc/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="B15Fresnillo.mx@SD" tvg-logo="https://imgur.com/iHnRr47.png" group-title="MEXICO 🇲🇽",B15 Fresnillo
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="B15Zacatecas.mx@SD" tvg-logo="https://imgur.com/iHnRr47.png" group-title="MEXICO 🇲🇽",B15 Zacatecas
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://imgur.com/eZOWkuO.png" group-title="MEXICO 🇲🇽",Canal 5
 http://45.181.87.106/CANAL5HD/index.m3u8
-
+ 
+#EXTINF:-1 tvg-id="bitMe.mx@SD" tvg-logo="https://imgur.com/WV6mnZn.png" group-title="MEXICO 🇲🇽",bitMe
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Canal5TVCozumel.mx@SD" tvg-logo="https://imgur.com/XZwDJg6.png" group-title="MEXICO 🇲🇽",Canal 5 TV Cozumel
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+ 
 
 
 
