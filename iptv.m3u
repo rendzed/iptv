@@ -1177,7 +1177,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/in
 #KODIPROP:inputstream.adaptive.license_key=02a01b19989c4f6699b83aead96fff14:89ac6f2178c855ce6bf9e9b7e45eecbb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
  
-#EXTINF:-1 tvg-id="FOXWeather" tvg-logo="https://imgur.com/XNi0d6g.png" group-title="WEATHER",FOX Weather
+#EXTINF:-1 tvg-id="FOXWeather" tvg-logo="https://imgur.com/XNi0d6g.png" group-title="WORLD NEWS",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
  
 #EXTINF:-1 tvg-id="Bloomberg.id" tvg-logo="https://imgur.com/ZpFLf6E.png" group-title="WORLD NEWS",Bloomberg
