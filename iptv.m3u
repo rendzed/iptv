@@ -855,11 +855,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
  
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://imgur.com/P8gu3zf.png" group-title="FILM",tvN Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://imgur.com/vHBKryE.png" group-title="FILM",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
