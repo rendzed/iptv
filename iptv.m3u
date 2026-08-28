@@ -1264,9 +1264,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d017034201
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
  
 #EXTINF:-1 tvg-id="AsianFoodNetwork.id" tvg-logo="https://imgur.com/lR4r7hS.png" group-title="LIFESTYLE",Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
  
 #EXTINF:-1 tvg-id="Biznet Lifestyle" tvg-logo="https://imgur.com/TSIARVO.png" group-title="Lifestyle",Biznet Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1289,11 +1291,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7605
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-logo="https://imgur.com/fLyqP41.png" group-title="LIFESTYLE",Food Network
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
  
 #EXTINF:-1 tvg-id="auto.home.crasher" tvg-logo="https://imgur.com/9ltp2BU.png" group-title="LIFESTYLE",Home Crasher
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
