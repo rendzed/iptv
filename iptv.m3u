@@ -2906,37 +2906,37 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
  
-#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/NYU5AmW.png" group-title="THAILAND",TPTV
+#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/NYU5AmW.png" group-title="THAILAND 🇹🇭",TPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
  
-#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/zaMU93j.png" group-title="THAILAND",TNN16
+#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/zaMU93j.png" group-title="THAILAND 🇹🇭",TNN16
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
  
-#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/dNEF9zl.png" group-title="THAILAND",WorkpointTV
+#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/dNEF9zl.png" group-title="THAILAND 🇹🇭",WorkpointTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
  
-#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/Np1qVUb.png" group-title="THAILAND",True4U
+#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/Np1qVUb.png" group-title="THAILAND 🇹🇭",True4U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
  
-#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/0eHxevH.png" group-title="THAILAND",GMM25
+#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/0eHxevH.png" group-title="THAILAND 🇹🇭",GMM25
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
  
-#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/Ic2gcia.png" group-title="THAILAND",9MCOT HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/Ic2gcia.png" group-title="THAILAND 🇹🇭",9MCOT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
  
-#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/KpOGMcB.png" group-title="THAILAND",ONE31 HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://imgur.com/KpOGMcB.png" group-title="THAILAND 🇹🇭",ONE31 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
