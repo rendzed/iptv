@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rendzed/iptv/main/epgtv.xml. https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml, https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rendzed/iptv/main/epgtv.xml, https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml, https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml" refresh="3600"
  
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-id.xml, https://iptv-epg.org/files/epg-sg.xml, https://iptv-epg.org/files/epg-my.xml, https://iptv-epg.org/files/epg-jp.xml, https://iptv-epg.org/files/epg-ph.xml, https://iptv-epg.org/files/epg-kr.xml, https://iptv-epg.org/files/epg-th.xml, https://iptv-epg.org/files/epg-tw.xml, https://iptv-epg.org/files/epg-ar.xml, https://iptv-epg.org/files/epg-br.xml, https://iptv-epg.org/files/epg-co.xml, https://iptv-epg.org/files/epg-fr.xml, https://iptv-epg.org/files/epg-de.xml, https://iptv-epg.org/files/epg-in.xml, https://iptv-epg.org/files/epg-it.xml, https://iptv-epg.org/files/epg-ng.xml, https://iptv-epg.org/files/epg-ru.xml, https://iptv-epg.org/files/epg-es.xml, https://iptv-epg.org/files/epg-ae.xml, https://iptv-epg.org/files/epg-us.xml, https://iptv-epg.org/files/epg-gb.xml, https://iptv-epg.org/files/epg-tr.xml, https://iptv-epg.org/files/epg-mx.xml, https://iptv-epg.org/files/epg-eg.xml, https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
 
@@ -349,6 +349,9 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://imgur.com/0SX07fc.png" group-title="TV NASIONAL",PARLEMEN TVR
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id@SD" tvg-logo="https://imgur.com/UYYYAVK.png" group-title="TV NASIONAL",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+
 #EXTINF:-1 tvg-id="Channel Jowo" tvg-logo="https://imgur.com/4mtBt2l.png" group-title="TV NASIONAL",Channel Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv
@@ -399,6 +402,10 @@ http://013tv.com:8080/F33848/cbd9779b/165095
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
  
+#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://imgur.com/Hgqcxh8.png" group-title="TV LOKAL",Astro Blitar TV
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BaliTV.id" tvg-logo="https://imgur.com/fW69oDW.png" group-title="TV LOKAL",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -411,7 +418,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
  
-#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://imgur.com/BQgRjEQ.png" group-title="TV LOKAL",Banten TV
+#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://imgur.com/3ieFc1c.png" group-title="TV LOKAL",Banten TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
  
@@ -427,6 +434,9 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV LOKAL",Balikpapan TV
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://imgur.com/6nuzmJ6.png" group-title="TV LOKAL",JakTV
 https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -1019,6 +1029,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 
 #################################################################### RELIGION ####################################################################
 
+#EXTINF:-1 tvg-id="AhsanTV.id@SD" tvg-logo="https://imgur.com/sodoRIQ.png" group-title="RELIGION",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="AjwaTV.id@SD" tvg-logo="https://imgur.com/9Qupfr2.png" group-title="RELIGION",Ajwa TV
+http://ikitv.sqn.at:8000/play/a00j/index.m3u8
+ 
 #EXTINF:-1 tvg-id="RodjaTv.id" tvg-logo="https://imgur.com/3ozMauF.png" group-title="RELIGION",Rodja TV
 https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
  
@@ -1074,6 +1090,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 #EXTINF:-1 tvg-id="auto.tv10.nu" tvg-logo="https://imgur.com/Cwhh7Cf.png" group-title="RELIGION",TV 10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
  
+#EXTINF:-1 tvg-id="NaajiyaTV.id@SD" tvg-logo="https://imgur.com/7aidOmb.png" group-title="RELIGION",Naajiya TV (720p)
+#EXTVLCOPT:http-referrer=https://www.naajiyatv.com/tonton
+https://www.naajiyatv.com/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://imgur.com/e5lgoED.png" group-title="RELIGION",Surau TV
+http://ikitv.sqn.at:8000/play/a00l/index.m3u8
+
 #EXTINF:-1 tvg-id="LIFE.id" tvg-logo="https://imgur.com/d06KBmN.png" group-title="RELIGION",Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1089,14 +1112,19 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/ind
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd
  
 #EXTINF:-1 tvg-id="UChannel.id" tvg-logo="https://imgur.com/YPn1Gnh.png" group-title="RELIGION",U Channel
-#https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.u-channel.tv
+https://srs.u-channel.tv/live/uchannel-tv.m3u8
+ 
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://imgur.com/FUU44Ji.png" group-title="RELIGION",EWTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=070756a16fd44081b6c2d64e40346b9e:d5fa9eaa7fd94f93d1b613d1ff0a5f91
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
+
+#EXTINF:-1 tvg-id="IAmChannel.id@SD" tvg-logo="https://imgur.com/u0pQu5j.png" group-title="RELIGION",I Am Channel
+#EXTVLCOPT:http-referrer=https://iamchannel.org/
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/AnKrVBn.png" group-title="RELIGION",GMS Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
