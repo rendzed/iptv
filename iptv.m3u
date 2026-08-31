@@ -1103,6 +1103,12 @@ https://www.naajiyatv.com/live/livestream.m3u8
 #EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://imgur.com/e5lgoED.png" group-title="RELIGION",Surau TV
 http://ikitv.sqn.at:8000/play/a00l/index.m3u8
 
+#EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-logo="https://imgur.com/M63mnxi.png" group-title="RELIGION",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+ 
+#EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://imgur.com/rJuDwOb.png" group-title="RELIGION",Salam TV
+https://live.salamtelevisi.com/hls/0/stream.m3u8
+ 
 #EXTINF:-1 tvg-id="LIFE.id" tvg-logo="https://imgur.com/d06KBmN.png" group-title="RELIGION",Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
