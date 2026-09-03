@@ -1165,11 +1165,11 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 
 #################################################################### WORLD NEWS ####################################################################
 
-#EXTINF:-1 tvg-id="CNNInternational.id" tvg-logo="https://imgur.com/6wlOe4P.png" group-title="WORLD NEWS",CNN International
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/6wlOe4P.png" group-title="WORLD NEWS",CNN International 1
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/6wlOe4P.png" group-title="WORLD NEWS",CNN International 2
+http://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
  
 #EXTINF:-1 tvg-id="auto.jakarta.globenews.channel" tvg-logo="https://imgur.com/iJ9Vo3P.png" group-title="WORLD NEWS",Jakarta GlobeNews
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -1352,10 +1352,10 @@ https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/jkn6ehrlni/o
 https://i.mjh.nz/.r/sky-hgtv.m3u8
  
 #EXTINF:-1 tvg-id="707.astro" tvg-logo="https://imgur.com/useAe5A.png" group-title="LIFESTYLE",TLC
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
  
 #EXTINF:-1 tvg-id="Travel Channel.ph" tvg-logo="https://imgur.com/KdtNR7X.png" group-title="LIFESTYLE",Trvl Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1455,9 +1455,7 @@ https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="716.astro" tvg-logo="https://imgur.com/L3QSdnu.png" group-title="SCIENCE & DOCUMENTARY",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-logo="https://imgur.com/atqytN4.png" group-title="SCIENCE & DOCUMENTARY",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -1513,7 +1511,11 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/in
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
  
 #EXTINF:-1 tvg-id="Curiosity.id" tvg-logo="https://imgur.com/RfdD6tF.png" group-title="SCIENCE & DOCUMENTARY",Curiosity Channel
-#https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
+https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd
  
 #EXTINF:-1 tvg-id="Lingua.id" tvg-logo="https://imgur.com/yvjNr3I.png" group-title="SCIENCE & DOCUMENTARY",Lingua Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1561,15 +1563,15 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
  
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-logo="https://imgur.com/cgZhFdq.png" group-title="NATIONAL ENTERTAINMENT",BIOSKOP INDONESIA
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="Ent.id" tvg-logo="https://imgur.com/9uIlVhN.png" group-title="NATIONAL ENTERTAINMENT",Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+ 
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-logo="https://imgur.com/cgZhFdq.png" group-title="NATIONAL ENTERTAINMENT",BIOSKOP INDONESIA
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://imgur.com/euFCpyc.png" group-title="NATIONAL ENTERTAINMENT",Citra Muslim
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1584,10 +1586,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMusli
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
  
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://imgur.com/id7K2n3.png" group-title="NATIONAL ENTERTAINMENT",Citra Drama
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21179&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21179&type=dash
  
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-logo="https://imgur.com/9hRbWWt.png" group-title="NATIONAL ENTERTAINMENT",Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
