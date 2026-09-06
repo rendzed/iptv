@@ -789,6 +789,21 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
  
+#EXTINF:-1 tvg-id="13" tvg-logo="https://imgur.com/jLjat63.png" group-title="FILM",Wedo TV Movies
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8
+ 
+#EXTINF:-1 tvg-id="37" tvg-logo="https://imgur.com/iEvoQmM.png" group-title="FILM",Wedo TV Amor
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-flashcon-digdayahd-1.dens.tv/h/h68/wedotv_amor.m3u8
+ 
+#EXTINF:-1 tvg-id="13" tvg-logo="https://imgur.com/hg2Le9g.png" group-title="FILM",Wedo TV Big Stories
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8
+ 
 #EXTINF:-1 tvg-id="auto.miramax.film" tvg-logo="https://imgur.com/OuYjfS2.png" group-title="FILM",Miramax
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1031,7 +1046,9 @@ https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 http://ikitv.sqn.at:8000/play/a00j/index.m3u8
  
 #EXTINF:-1 tvg-id="RodjaTv.id" tvg-logo="https://imgur.com/3ozMauF.png" group-title="RELIGION",Rodja TV
-https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
  
 #EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://imgur.com/lPruGJB.png" group-title="RELIGION",MQTV
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
