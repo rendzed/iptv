@@ -1830,6 +1830,28 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/in
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
  
+#EXTINF:-1 tvg-id="BahanaFM.id" tvg-logo="https://imgur.com/PWyAGyk.png" group-title="MUSIC",Bahana FM JKT
+https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="MIC.id" tvg-logo="https://imgur.com/Hw6Ba8b.png" group-title="MUSIC",MIC TV 
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://mic.siar.us/mic/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://imgur.com/8sS0N3D.png" group-title="MUSIC",IMTV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Musica.id" tvg-logo="https://imgur.com/OctrE4k.png" group-title="MUSIC",Musica TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://tvratu.my.id/nissa/index.mpd?id=7619&type=dash
+ 
+#EXTINF:-1 tvg-id="SpiritTV" tvg-logo="https://imgur.com/T0PWZRy.png" group-title="MUSIC",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ReloadTV" tvg-logo="https://imgur.com/4RDDFMY.png" group-title="MUSIC",Reload TV
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+ 
 #EXTINF:-1 tvg-id="Musik Indonesia.id" tvg-logo="https://imgur.com/bUJ0j6Q.png" group-title="MUSIC",Musik Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1844,10 +1866,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 #################################################################### MUSIC ####################################################################
 
 #EXTINF:-1 tvg-id="718.astro" tvg-logo="https://imgur.com/rsibIYt.png" group-title="MUSIC",MTV Live
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://cdnbal1.indihometv.com/atm/DASH/mtvlive/manifest.mpd
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
  
 #EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" tvg-logo="https://imgur.com/q5F6qAG.png" group-title="MUSIC",MTV 90s
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1872,7 +1894,7 @@ https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://imgur.com/FNmrXMY.png" group-title="MUSIC",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="99372" tvg-logo="https://imgur.com/GmCiLAk.png" group-title="MUSIC",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
