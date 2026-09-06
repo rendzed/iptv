@@ -2413,7 +2413,7 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/play
 
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://imgur.com/f2GYwd0.png" group-title="SINGAPORE 🇸🇬",Channel 5
-https://iptv.kilas7.com:80/kaukia/asdfrewq/22
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
  
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://imgur.com/aa5xJL7.png" group-title="SINGAPORE 🇸🇬",Channel 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
