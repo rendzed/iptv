@@ -2424,11 +2424,6 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/play
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
  
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://imgur.com/aa5xJL7.png" group-title="SINGAPORE 🇸🇬",Channel 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
 https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
  
 #EXTINF:-1 tvg-id="Ch U" tvg-logo="https://imgur.com/V3x16Uf.png" group-logo="" group-title="SINGAPORE 🇸🇬",Channel U
