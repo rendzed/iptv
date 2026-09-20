@@ -177,16 +177,18 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
  
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://imgur.com/6BgeSko.png" group-title="TV NASIONAL",Indosiar VDO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+
+https://vidsemar.pages.dev/terraluna2/205.mpd
  
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://imgur.com/82ioUu1.png" group-title="TV NASIONAL",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+https://vidsemar.pages.dev/terraluna2/782.mpd
   
 #EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://imgur.com/843Y2tC.png" group-title="TV NASIONAL",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -344,8 +346,12 @@ https://vidsemar.pages.dev/terraluna2/19046.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
  
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://imgur.com/y9RYb3F.png" group-title="TV NASIONAL",Beritasatu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=18288&type=drm
+https://tvratu.my.id/vid/index.mpd?id=18280&type=dash
  
 #EXTINF:-1 tvg-id="Jawapos.id" tvg-logo="https://imgur.com/Kqo8XwN.png" group-title="TV NASIONAL",Jawa Pos TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
