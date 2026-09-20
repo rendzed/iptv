@@ -910,48 +910,48 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
  
-#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://imgur.com/FjIks2K.png" group-title="FILM",Zee Cinema
+#EXTINF:-1 tvg-id="Zeecinema.id" tvg-logo="https://imgur.com/FjIks2K.png" group-title="FILM",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-
+ 
 
 
 
 #################################################################### HBO GRUP ####################################################################
 
-#EXTINF:-1 tvg-id="401.astro" tvg-logo="https://imgur.com/O7yBZTX.png" group-title="HBO GRUP",HBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/O7yBZTX.png" group-title="HBO GRUP",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
  
-#EXTINF:-1 tvg-id="402.astro" tvg-logo="https://imgur.com/D7dla5g.png" group-title="HBO GRUP",HBO 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/D7dla5g.png" group-title="HBO GRUP",HBO 2
 http://72.1.184.5:8089/play/a07p/index.m3u8
  
-#EXTINF:-1 tvg-id="402.astro" tvg-logo="https://imgur.com/p6OQgrb.png" group-title="HBO GRUP",HBO 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/p6OQgrb.png" group-title="HBO GRUP",HBO 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
  
-#EXTINF:-1 tvg-id="403.astro" tvg-logo="https://imgur.com/CLjaNqF.png" group-title="HBO GRUP",HBO Comdy
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/CLjaNqF.png" group-title="HBO GRUP",HBO Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
  
-#EXTINF:-1 tvg-id="403.astro" tvg-logo="https://imgur.com/m9LDxpv.png" group-title="HBO GRUP",HBO Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/m9LDxpv.png" group-title="HBO GRUP",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
  
-#EXTINF:-1 tvg-id="403.astro" tvg-logo="https://imgur.com/SAJdteq.png" group-title="HBO GRUP",HBO Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/SAJdteq.png" group-title="HBO GRUP",HBO Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
  
-#EXTINF:-1 tvg-id="403.astro" tvg-logo="https://imgur.com/vrlPYCi.png" group-title="HBO GRUP",HBO Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vrlPYCi.png" group-title="HBO GRUP",HBO Plus
 http://72.1.184.5:8089/play/a07s/index.m3u8
  
-#EXTINF:-1 tvg-id="403.astro" tvg-logo="https://imgur.com/y6nUb1h.png" group-title="HBO GRUP",HBO Xtreme
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/y6nUb1h.png" group-title="HBO GRUP",HBO Xtreme
 http://72.1.184.5:8089/play/a07s/index.m3u8
  
-#EXTINF:-1 tvg-id="403.astro" tvg-logo="https://imgur.com/WRsGgSt.png" group-title="HBO GRUP",HBO West
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WRsGgSt.png" group-title="HBO GRUP",HBO West
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
