@@ -145,13 +145,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=3.play
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
- 
-#EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://imgur.com/jSgJEWN.png" group-title="TV NASIONAL",Trans TV
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
- 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://imgur.com/tpizc4i.png" group-title="TV NASIONAL",Trans 7
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
- 
+  
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -164,6 +158,12 @@ https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://imgur.com/JwUuKzg.png" group-title="TV NASIONAL",SCTV
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
  
+#EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://imgur.com/jSgJEWN.png" group-title="TV NASIONAL",Trans TV
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+ 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://imgur.com/tpizc4i.png" group-title="TV NASIONAL",Trans 7
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -172,12 +172,10 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://imgur.com/6BgeSko.png" group-title="TV NASIONAL",Indosiar VDO
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://imgur.com/82ioUu1.png" group-title="TV NASIONAL",ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://imgur.com/82ioUu1.png" group-title="TV NASIONAL",ANTV
-http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+#EXTVLCOPT:http-origin=http://www.vidio.comhttp://tvratu.my.id/nissa/index.mpd?id=782&type=dash
   
 #EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://imgur.com/843Y2tC.png" group-title="TV NASIONAL",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
