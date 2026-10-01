@@ -924,12 +924,11 @@ https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
  
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 
 #EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://imgur.com/rOc9x8L.png" group-title="FILM",Zee Bioskop
-https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/WmVlIEJpb3Nrb3A/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_2500000=7-3277707030000000.mpd
  
 #EXTINF:-1 tvg-id="Zcinema.id" tvg-logo="https://imgur.com/FjIks2K.png" group-title="FILM",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1325,11 +1324,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h101/index.m3u8|User-Agent=Mozilla/5.0
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CGTN.id" tvg-logo="https://imgur.com/7mFxp2g.png" group-title="WORLD NEWS",CGTN
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
-https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
+https://english.cctv.com/live/cctv_English/index.m3u8
  
 #EXTINF:-1 tvg-id="TRT World HD.uk" tvg-logo="https://imgur.com/UNUu3PM.png" group-title="WORLD NEWS",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
