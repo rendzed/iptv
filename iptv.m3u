@@ -1015,15 +1015,17 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #EXTINF:-1 tvg-id="615.astro" tvg-logo="https://imgur.com/wjDVYel.png" group-title="KIDS",Cartoon Network
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
  
-#EXTINF:-1 tvg-id="616.astro" tvg-logo="https://imgur.com/3ShvcYa.png" group-title="KIDS",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+
+#EXTINF:-1 tvg-id="616.astro" tvg-logo="https://imgur.com/3ShvcYa.png" group-title="KIDS",Nickelodeon
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
  
-#EXTINF:-1 tvg-id="617.astro" tvg-logo="https://imgur.com/zYdu36U.png" group-title="KIDS",Nick Jr
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+
+#EXTINF:-1 tvg-id="617.astro" tvg-logo="https://imgur.com/zYdu36U.png" group-title="KIDS",Nick Jr
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
  
 #EXTINF:-1 tvg-id="CBeebies.id" tvg-logo="https://imgur.com/okK9dRL.png" group-title="KIDS",CBeebies
