@@ -935,9 +935,13 @@ http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/D7dla5g.png" group-title="HBO GRUP",HBO 2
 http://72.1.184.5:8089/play/a07p/index.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/p6OQgrb.png" group-title="HBO GRUP",HBO 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/D7dla5g.png" group-title="HBO GRUP",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/p6OQgrb.png" group-title="HBO GRUP",HBO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/CLjaNqF.png" group-title="HBO GRUP",HBO Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -946,7 +950,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/m9LDxpv.png" group-title="HBO GRUP",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
+#http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/SAJdteq.png" group-title="HBO GRUP",HBO Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -954,7 +958,7 @@ http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vrlPYCi.png" group-title="HBO GRUP",HBO Plus
-http://72.1.184.5:8089/play/a07s/index.m3u8
+#http://72.1.184.5:8089/play/a07s/index.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/y6nUb1h.png" group-title="HBO GRUP",HBO Xtreme
 http://72.1.184.5:8089/play/a07s/index.m3u8
