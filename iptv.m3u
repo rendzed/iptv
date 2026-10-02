@@ -983,9 +983,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 
 https://vidsemar.pages.dev/terraluna2/8237.mpd
  
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+
 #EXTINF:-1 tvg-id="Dunia Anak.id" tvg-logo="https://imgur.com/OEINxE9.png" group-title="Dunia Anak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/RHVuaWEgQW5haw/manifest.mpd?signature=ZDNiYjU4MzAxMTBkMzc1MjI5Y2U3OWRhYTEyYTI3NTk=\u0026time=77777777777\u0026device_id=FSlX1K-DefzQgeRDr8nqcdPldi08duOIYOa9kVNKTxlQJdq10_VV
   
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://imgur.com/hzW64fR.png" group-title="KIDS",Horee!
 https://tvratu.my.id/vid/index.mpd?id=6397|license_type=com.widevine.alpha&license_key=https://tvratu.my.id/vid/index.mpd?id=6397&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
