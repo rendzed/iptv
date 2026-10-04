@@ -1167,11 +1167,12 @@ https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://imgur.com/rJuDwOb.png" group-title="RELIGION",Salam TV
 https://live.salamtelevisi.com/hls/0/stream.m3u8
  
-#EXTINF:-1 tvg-id="LIFE.id" tvg-logo="https://imgur.com/d06KBmN.png" group-title="RELIGION",Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=138&type=drm&token=alf-store
+
+#EXTINF:-1 tvg-id="LIFE.id" tvg-logo="https://imgur.com/d06KBmN.png" group-title="RELIGION",Life
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
  
 #EXTINF:-1 tvg-id="Reformed 21" tvg-logo="https://imgur.com/F9UIqlO.png" group-title="RELIGION",Reformed 21
@@ -1602,11 +1603,12 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTVLCOPT:http-origin=http://www.biznetvideo.net
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
  
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://imgur.com/2rWBJvS.png" group-title="NATIONAL ENTERTAINMENT",Vision Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=87
+
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://imgur.com/2rWBJvS.png" group-title="NATIONAL ENTERTAINMENT",Vision Prime
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
  
 #EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://imgur.com/yucAsgK.png" group-title="NATIONAL ENTERTAINMENT",FIRST
@@ -1687,15 +1689,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-id="Seru!.id" tvg-logo="https://imgur.com/K02i9hd.png" group-title="NATIONAL ENTERTAINMENT",Seru Channel
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
  
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
 
 #EXTINF:-1 tvg-id=Dunialain.id" tvg-logo="https://imgur.com/Z6G3yuy.png" group-title="NATIONAL ENTERTAINMENT",Dunia Lain
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgTGFpbg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/RHVuaWEgTGFpbg/manifest.mpd?signature=ZDgxOGY4YTcxNzhiM2JiY2Y0OGViMDI0NmU3MDQyYmE=&time=77777777777&device_id=3qBPI-VMdGO_z7u0ST5cIt29gOWrt_ujQBduxIYWxaYbm3tSwA
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
@@ -1717,14 +1716,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd4
  
 #################################################################### GENERAL ENTERTAINMENT ####################################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+
 #EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://imgur.com/DBFSUxd.png" group-title="GENERAL ENTERTAINMENT",AXN
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QVhOLW15/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
  
 #EXTINF:-1 tvg-id="701.astro" tvg-logo="https://imgur.com/DBFSUxd.png" group-title="GENERAL ENTERTAINMENT",AXN
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -2429,10 +2425,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 ########################################################################### FASHION ###########################################################################
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+
 #EXTINF:-1 tvg-id="FashionTV" tvg-logo="https://imgur.com/blOEx4V.png" group-title="FASHION",Fashion TV L'Original
-#KODIPROP:inputstream.adaptive.assured_buffer_length=30
-#KODIPROP:inputstream.adaptive.max_buffer_length=60
-https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/RmFzaGlvbiBUVg/manifest.mpd?signature=NDI2OTFlYzFhYTU1NzdkY2UxNzQzNjM1Y2JhYTVjYTk=&time=77777777777&device_id=K6fApj3euoa4Eu1vXgGoVIX0PYP55j26C1WM4rp1e3Am4ON9Jw
  
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://imgur.com/BVN8PiB.png" group-title="FASHION",Fashion TV
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
