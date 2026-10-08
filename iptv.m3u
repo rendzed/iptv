@@ -161,13 +161,11 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://imgur.com/6BgeSko.png" group-title="TV NASIONAL",Indosiar
 https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/SW5kb3NpYXI/manifest.mpd?signature=NGJkYmUwZDk5M2YyN2ZkYTdhY2VlN2Y5MGU1NWEwZjU=\u0026time=77777777777\u0026device_id=NQILKDOdEdKnBePlILBwVBlTJPnutqLTBCPzxYLAlUgM3Ot6NnmT
 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://imgur.com/6BgeSko.png" group-title="TV NASIONAL",Indosiar VDO
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+https://vidsemar.pages.dev/terraluna2/205.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://imgur.com/82ioUu1.png" group-title="TV NASIONAL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
