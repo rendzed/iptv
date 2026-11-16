@@ -1795,9 +1795,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-
+ 
 #EXTINF:-1 tvg-id="518.astro" tvg-logo="https://imgur.com/SNAOWfR.png" group-title="GENERAL ENTERTAINMENT",ABC Australia
-https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/QUJDIEF1c3RyYWxpYQ/manifest.mpd?signature=OGQwYzY2YTMxNDEwMmRlYmM0N2IxMjQ5MDA3ZTA1Yzc=&time=77777777777&device_id=Oa-x1V-tu7ZAC_1GpDwmADej_x6wwn4xpgiLbB1SNLhpBAs3Ky90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8
+ 
+#EXTINF:-1 tvg-id="518.astro" tvg-logo="https://imgur.com/SNAOWfR.png" group-title="GENERAL ENTERTAINMENT",ABC Australia
+#https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/QUJDIEF1c3RyYWxpYQ/manifest.mpd?signature=OGQwYzY2YTMxNDEwMmRlYmM0N2IxMjQ5MDA3ZTA1Yzc=&time=77777777777&device_id=Oa-x1V-tu7ZAC_1GpDwmADej_x6wwn4xpgiLbB1SNLhpBAs3Ky90
  
 #EXTINF:-1 tvg-id="703.astro" tvg-logo="https://imgur.com/Ek58j58.png" group-title="GENERAL ENTERTAINMENT",RAI ITALIA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
