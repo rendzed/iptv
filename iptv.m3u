@@ -131,10 +131,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
  
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://imgur.com/gQpFfrk.png" group-title="TV NASIONAL",GTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3&type=drm&token=KITKATTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
   
