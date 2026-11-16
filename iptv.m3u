@@ -314,21 +314,19 @@ https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://imgur.com/iFBaXCX.png" group-title="TV NASIONAL",IDX Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134
-https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134&type=drm&token=KITKATTV
+https://proxy-v.rctiplus.id/live/web/idx/index.m3u8
   
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://imgur.com/my4yRzW.png" group-title="TV NASIONAL",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
  
+#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-logo="https://imgur.com/omTJIpV.png" group-title="TV NASIONAL",Sindonews TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5&type=drm&token=KITKATTV
-
-#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-logo="https://imgur.com/omTJIpV.png" group-title="TV NASIONAL",Sindonews TV
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
  
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://imgur.com/y9RYb3F.png" group-title="TV NASIONAL",Beritasatu
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -414,12 +412,12 @@ https://hgmtv.com:19360/asthatv/asthatv.m3u8
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BaliTV.id" tvg-logo="https://imgur.com/fW69oDW.png" group-title="TV LOKAL",Bali TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=26&type=drm&token=KITKATTV
+https://proxy-v.rctiplus.id/live/web/balitv/index.m3u8
  
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://imgur.com/jHHjz0K.png" group-title="TV LOKAL",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -446,14 +444,12 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://imgur.com/6nuzmJ6.png" group-title="TV LOKAL",JakTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=25&type=drm&token=KITKATTV
+https://proxy-v.rctiplus.id/live/web/jaktv/index.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qn17SmG.png" group-title="TV LOKAL",Elshinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
