@@ -1249,18 +1249,17 @@ http://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_356
 https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
  
 #EXTINF:-1 tvg-id="BBC News" tvg-logo="https://imgur.com/cJJXq4L.png" group-title="WORLD NEWS",BBC News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e7c10b448444c53904de46d1a30f427:d638c2cb75ff93d38b5ec8b6f5098dea
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
+https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
  
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-logo="https://imgur.com/4imy00U.png" group-title="WORLD NEWS",Al Jazeera English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5c2df5b13c04708a89de814f5b73f8e:0a2678dca36ec3e46e223bb3aafdaf37
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=148&type=drm&token=KITKATTV
+https://proxy-v.rctiplus.id/live/web/aljazeera/index.m3u8
  
 #EXTINF:-1 tvg-id="513.astro" tvg-logo="https://imgur.com/4imy00U.png" group-title="WORLD NEWS",Al Jazeera Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -1269,38 +1268,27 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist720p.m3u8
  
 #EXTINF:-1 tvg-id="CNBC Asia" tvg-logo="https://imgur.com/4mANPfE.png" group-title="WORLD NEWS",CNBC Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+https://proxy-v.rctiplus.id/live/web/cnbc/index.m3u8
  
 #EXTINF:-1 tvg-id="FOXNews.id" tvg-logo="https://imgur.com/aGY90EZ.png" group-title="WORLD NEWS",FOX News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02a01b19989c4f6699b83aead96fff14:89ac6f2178c855ce6bf9e9b7e45eecbb
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
+https://proxy-v.rctiplus.id/live/web/foxnews/index.m3u8
  
 #EXTINF:-1 tvg-id="FOXWeather" tvg-logo="https://imgur.com/XNi0d6g.png" group-title="WORLD NEWS",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
  
 #EXTINF:-1 tvg-id="Bloomberg.id" tvg-logo="https://imgur.com/ZpFLf6E.png" group-title="WORLD NEWS",Bloomberg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0d67e9e2641468d9daf3182c25bd40c:84663ccbdeba441f88c63d8573269fa1
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
- 
-#EXTINF:-1 tvg-id="517.astro" tvg-logo="https://imgur.com/ZpFLf6E.png" group-title="WORLD NEWS",Bloomberg
-#https://bloomberg.com/media-manifest/streams/asia.m3u8
+https://proxy-v.rctiplus.id/live/web/bloomberg/index.m3u8
  
 #EXTINF:-1 tvg-id="Euronews.id" tvg-logo="https://imgur.com/7fQcGqA.png" group-title="WORLD NEWS",Euronews English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79d66aca73d94db694964b1b3fb08533:71d8b26729d735d7d8b895e5d6a9bfcc
-https://d2tjypxxy769fn.cloudfront.net/out/v1/23af54d57d8a447dbf0621ec71d89e7e/index.mpd
+https://proxy-v.rctiplus.id/live/web/euronews/index.m3u8
  
 #EXTINF:-1 tvg-id="515.astro" tvg-logo="https://imgur.com/xrA7WEu.png" group-title="WORLD NEWS",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -1309,7 +1297,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
  
 #EXTINF:-1 tvg-id="521.astro" tvg-logo="https://imgur.com/CaI6gVk.png" group-title="WORLD NEWS",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/dwtv/index.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/D6ICdzA.png" group-title="WORLD NEWS",FREEDOM
 https://op-flashcon-digdayahd-1.dens.tv/h/h101/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1323,7 +1313,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h101/index.m3u8|User-Agent=Mozilla/5.0
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CGTN.id" tvg-logo="https://imgur.com/7mFxp2g.png" group-title="WORLD NEWS",CGTN
-https://english.cctv.com/live/cctv_English/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/cgtn/index.m3u8
  
 #EXTINF:-1 tvg-id="TRT World HD.uk" tvg-logo="https://imgur.com/UNUu3PM.png" group-title="WORLD NEWS",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
