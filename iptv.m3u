@@ -982,15 +982,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v
 
 #################################################################### KIDS ####################################################################
 
-#EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://imgur.com/hs6AR29.png" group-title="KIDS",Biznet Kids
-https://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8|User-Agent=referrer=http://www.biznetvideo.net/
 
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://imgur.com/cChLpr7.png" group-title="KIDS",Kids TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
  
 #EXTINF:-1 tvg-id="Mentari.TV.id" tvg-logo="https://imgur.com/aMm0Coe.png" group-title="KIDS",Mentari TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
@@ -1038,6 +1034,11 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #EXTINF:-1 tvg-id="617.astro" tvg-logo="https://imgur.com/zYdu36U.png" group-title="KIDS",Nick Jr
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
  
+#EXTINF:-1 tvg-id="CBeebies.id" tvg-logo="https://imgur.com/okK9dRL.png" group-title="KIDS",CBeebies (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
+  
 #EXTINF:-1 tvg-id="CBeebies.id" tvg-logo="https://imgur.com/okK9dRL.png" group-title="KIDS",CBeebies
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1051,11 +1052,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
  
 #EXTINF:-1 tvg-id="BuddyStar.id" tvg-logo="https://imgur.com/iccc80A.png" group-title="KIDS",Buddy Star
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
  
 #EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://imgur.com/d3Bty4v.png" group-title="KIDS",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1088,18 +1087,14 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Moonbug" tvg-logo="https://imgur.com/kUkC5Ei.png" group-title="KIDS",Moonbug
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+https://proxy-v.rctiplus.id/live/web/moonbug/index.m3u8
  
 #EXTINF:-1 tvg-id="ZooMoo.id" tvg-logo="https://imgur.com/jA0a286.png" group-title="KIDS",ZooMoo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
  
 
 
@@ -1866,11 +1861,10 @@ https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #################################################################### JAPANESE ENTERTAINMENT ####################################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-
 #EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://imgur.com/7CEQTmx.png" group-title="JAPANESE ENTERTAINMENT",Animax
-https://cdnbal1.indihometv.com/atm/DASH/animax/animax-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
  
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://imgur.com/K4KWIaR.png" group-title="JAPANESE ENTERTAINMENT",Aniplus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
