@@ -693,19 +693,19 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #################################################################### FILM ####################################################################
 
 #EXTINF:-1 tvg-id="401.astro" tvg-logo="https://imgur.com/KU6oysr.png" group-title="FILM",HBO
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306484
 
 #EXTINF:-1 tvg-id="402.astro" tvg-logo="https://imgur.com/h84AEX7.png" group-title="FILM",HBO Hits
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306486
  
 #EXTINF:-1 tvg-id="403.astro" tvg-logo="https://imgur.com/mjLREK2.png" group-title="FILM",HBO Family
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
+http://aflaxtv.xyz:8080/F33848/cbd9779b/197055
 
 #EXTINF:-1 tvg-id="403.astro" tvg-logo="https://imgur.com/gZo7lY4.png" group-title="FILM",HBO Signature
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306483
  
 #EXTINF:-1 tvg-id="412.astro" tvg-logo="https://imgur.com/yf6tA9o.png" group-title="FILM",Cinemax
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
+http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 
 #EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://imgur.com/RIjZsgf.png" group-title="FILM",Film4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
