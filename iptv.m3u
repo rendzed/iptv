@@ -1513,15 +1513,10 @@ https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-logo="https://imgur.com/atqytN4.png" group-title="SCIENCE & DOCUMENTARY",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-
 #EXTINF:-1 tvg-id="555.astro" tvg-logo="https://imgur.com/fhaAd6c.png" group-title="SCIENCE & DOCUMENTARY",History
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
