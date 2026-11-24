@@ -1541,7 +1541,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
 https://dsgtq5sngxkde.cloudfront.net/mncent/index.m3u8
  
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-logo="https://imgur.com/cgZhFdq.png" group-title="NATIONAL ENTERTAINMENT",BIOSKOP INDONESIA
-#http://202.150.161.212:5000/live/channel35/playlist.m3u8
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://imgur.com/euFCpyc.png" group-title="NATIONAL ENTERTAINMENT",Citra Muslim
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
