@@ -135,9 +135,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://linier-gtv.rctiplus.id/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
   
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://imgur.com/XpUN3Kn.png" group-title="TV NASIONAL",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://rplus.inisemar.my.id/rcti.m3u8
  
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://imgur.com/A0jgwIl.png" group-title="TV NASIONAL",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -285,11 +285,8 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
  
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://imgur.com/zHiGefN.png" group-title="TV NASIONAL",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4&type=drm&token=KITKATTV
-https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://linier-inews.rctiplus.id/inews-sdi-avc1_1000000=22-mp4a_96000=1.m3u8
  
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://imgur.com/zHiGefN.png" group-title="TV NASIONAL",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -304,7 +301,7 @@ https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134&type=drm&token=KITKATTV
-https://proxy-v.rctiplus.id/live/web/idx/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/idx/index.m3u8
   
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://imgur.com/my4yRzW.png" group-title="TV NASIONAL",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -313,7 +310,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-logo="https://imgur.com/omTJIpV.png" group-title="TV NASIONAL",Sindonews TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/sindonews/index.m3u8
  
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://imgur.com/y9RYb3F.png" group-title="TV NASIONAL",Beritasatu
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
