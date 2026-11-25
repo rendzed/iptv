@@ -219,8 +219,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="BNChannel.id" tvg-logo="https://imgur.com/9nAHjue.png" group-title="TV NASIONAL",BN Channel
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch112.m3u8
+https://astatv-api.pages.dev/api/s/i10011.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://imgur.com/R7CldrE.png" group-title="TV NASIONAL",Metro TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -269,13 +268,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://linier-inews.rctiplus.id/inews-sdi-avc1_1000000=22-mp4a_96000=1.m3u8
- 
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://imgur.com/zHiGefN.png" group-title="TV NASIONAL",iNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
  
 #EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://imgur.com/iFBaXCX.png" group-title="TV NASIONAL",IDX Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -600,8 +592,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Ba3nFxM.png" group-title="TV LOKAL",akativi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://e.siar.us/live/aktv.m3u8
+https://astatv-api.pages.dev/api/s/i10002.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/alz1D7L.png" group-title="TV LOKAL",BETV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
