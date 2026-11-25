@@ -155,24 +155,6 @@ https://linier-gtv.rctiplus.id/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://vidio123.mikrofast.web.id/vidio/204/index.mpd
  
-#EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://imgur.com/jSgJEWN.png" group-title="TV NASIONAL",Trans TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
- 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://imgur.com/tpizc4i.png" group-title="TV NASIONAL",Trans 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7&type=drm&token=KITKATTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
- 
 #EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://imgur.com/jSgJEWN.png" group-title="TV NASIONAL",Trans TV
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
@@ -1440,10 +1422,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
  
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://imgur.com/GkvI2zD.png" group-title="SCIENCE & DOCUMENTARY",Animal Planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+https://astatv-api.pages.dev/api/s/2667.m3u8
  
 #EXTINF:-1 tvg-id="716.astro" tvg-logo="https://imgur.com/vU6JNjs.png" group-title="SCIENCE & DOCUMENTARY",Earth Touch Tv
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
