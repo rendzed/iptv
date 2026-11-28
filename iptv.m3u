@@ -1027,8 +1027,8 @@ https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-id="AjwaTV.id@SD" tvg-logo="https://imgur.com/9Qupfr2.png" group-title="RELIGION",Ajwa TV
 http://ikitv.sqn.at:8000/play/a00j/index.m3u8
  
-#EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://imgur.com/WPQH3Y2.png" group-title="RELIGION",Ashili TV
-https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://imgur.com/WPQH3Y2.png" group-title="RELIGION",Ashiil TV
+https://astatv.karaa.web.id/api/s/i10004.m3u8
  
 #EXTINF:-1 tvg-id="RodjaTv.id" tvg-logo="https://imgur.com/3ozMauF.png" group-title="RELIGION",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1057,11 +1057,7 @@ https://tvstreamcast.com/tawaftv.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
  
 #EXTINF:-1 tvg-id="Qurantv.id@SD" tvg-logo="https://imgur.com/moNVcev.png" group-title="RELIGION",Al Quran Al Kareem
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
+https://astatv.karaa.web.id/api/s/i20001.m3u8
  
 #EXTINF:-1 tvg-id="Alwafa.tarim.id@SD" tvg-logo="https://imgur.com/O2a0rLf.png" group-title="RELIGION",Al Wafa Tarim
 https://astatv.karaa.web.id/api/s/i10003.m3u8
@@ -1138,13 +1134,13 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
-https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/2r7M4ef.png" group-title="RELIGION",Praise
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e19e27b1ce9b41e7a7638043c6a9dce6:689d87f13d5c1112ab76030ad3c6b995
-https://atemeshield1-voe.sysln.id/live/eds/PraiseHD/mpd/PraiseHD.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/PraiseHD/mpd/PraiseHD.mpd
 
 
 
