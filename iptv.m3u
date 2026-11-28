@@ -366,8 +366,7 @@ http://013tv.com:8080/F33848/cbd9779b/165095
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
  
 #EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://imgur.com/Hgqcxh8.png" group-title="TV LOKAL",Astro Blitar TV
-#EXTVLCOPT:http-referrer=https://abtelevisi.com/
-https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+https://astatv.karaa.web.id/api/s/i10005.m3u8
 
 #EXTINF:-1 tvg-id="BaliTV.id" tvg-logo="https://imgur.com/fW69oDW.png" group-title="TV LOKAL",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -409,9 +408,7 @@ http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 https://dsgtq5sngxkde.cloudfront.net/jaktv/index.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qn17SmG.png" group-title="TV LOKAL",Elshinta TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
+https://astatv.karaa.web.id/api/s/i20008.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ktaQeT9.png" group-title="TV LOKAL",RCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -545,7 +542,7 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cxENQM5.png" group-title="TV LOKAL",Caruban TV
-https://astatv-api.pages.dev/api/s/i10013.m3u8
+https://astatv.karaa.web.id/api/s/i10013.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/kApqLxX.png" group-title="TV LOKAL",Salira TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -1043,12 +1040,7 @@ https://e.siar.us/live/tvmu.m3u8
  
 #EXTINF:-1 tvg-id="auto.dmi.tv" tvg-logo="https://imgur.com/oybfFVs.png" group-title="RELIGION",DMI TV
 https://tvstreamcast.com/tawaftv.m3u8
- 
-#EXTINF:-1 tvg-id="auto.dmi.tv" tvg-logo="https://imgur.com/oybfFVs.png" group-title="RELIGION",DMI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
- 
+
 #EXTINF:-1 tvg-id="Tawaf.id" tvg-logo="https://imgur.com/Tiranad.png" group-title="RELIGION",Tawaf Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1071,7 +1063,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/ind
 #EXTINF:-1 tvg-id="KhasanahTv.id" tvg-logo="https://imgur.com/XNadM57.png" group-title="RELIGION",Khasanah Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
+https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
  
 #EXTINF:-1 tvg-id="auto.tv9.nu" tvg-logo="https://imgur.com/PRLZtck.png" group-title="RELIGION",TV9
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
@@ -1084,7 +1076,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 https://www.naajiyatv.com/live/livestream.m3u8
 
 #EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://imgur.com/e5lgoED.png" group-title="RELIGION",Surau TV
-http://ikitv.sqn.at:8000/play/a00l/index.m3u8
+https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8
 
 #EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-logo="https://imgur.com/M63mnxi.png" group-title="RELIGION",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
@@ -1125,7 +1117,7 @@ https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
-#https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/GatVcFF.png" group-title="RELIGION",TBN Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1140,13 +1132,13 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
-#https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/2r7M4ef.png" group-title="RELIGION",Praise
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e19e27b1ce9b41e7a7638043c6a9dce6:689d87f13d5c1112ab76030ad3c6b995
-#https://atemeshield1-voe.sysln.id/live/eds/PraiseHD/mpd/PraiseHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/PraiseHD/mpd/PraiseHD.mpd
 
 
 
