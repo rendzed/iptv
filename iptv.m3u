@@ -379,17 +379,23 @@ https://dsgtq5sngxkde.cloudfront.net/balitv/index.m3u8
  
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://imgur.com/jHHjz0K.png" group-title="TV LOKAL",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+https://astatv.karaa.web.id/api/s/5470.m3u8
  
 #EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://imgur.com/BQgRjEQ.png" group-title="TV LOKAL",Banten TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+https://astatv.karaa.web.id/api/s/i10008.m3u8
  
 #EXTINF:-1 tvg-id="BRTV.id" tvg-logo="https://imgur.com/OqTjh5J.png" group-title="TV LOKAL",BRTV
-https://astatv-api.pages.dev/api/s/i10012.m3u8
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
  
 #EXTINF:-1 tvg-id="BungoTV.id" tvg-logo="https://imgur.com/A94EjPh.png" group-title="TV LOKAL",Bungo TV
-https://astatv-api.pages.dev/api/s/2651.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://imgur.com/3ieFc1c.png" group-title="TV LOKAL",Balikpapan TV
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
@@ -408,7 +414,8 @@ https://dsgtq5sngxkde.cloudfront.net/jaktv/index.m3u8
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ktaQeT9.png" group-title="TV LOKAL",RCTV
-https://astatv-api.pages.dev/api/s/i10040.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://v10.siar.us/rctv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/szJJdxB.png" group-title="TV LOKAL",UGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -493,7 +500,8 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDXPvta.png" group-title="TV LOKAL",BMS TV
-https://astatv-api.pages.dev/api/s/i10010.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/iyRcw7B.png" group-title="TV LOKAL",Madu Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -594,7 +602,8 @@ https://astatv-api.pages.dev/api/s/i10002.m3u8
 #https://primatv.siar.us/primatv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-id="PKTV.id@SD" tvg-logo="https://imgur.com/93hHoeS.png" group-title="TV LOKAL",PKTV
-https://astatv-api.pages.dev/api/s/i10037.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
  
 #EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://imgur.com/Nmw8MI6.png" group-title="TV LOKAL",Batam TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -616,7 +625,8 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 https://bauni.my.id/hls/eks53uhf/2_1/index.m3u8?tkn=1008024706
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/0dVtYys.png" group-title="TV LOKAL",MGS TV
-https://astatv-api.pages.dev/api/s/i10034.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OqTjh5J.png" group-title="TV LOKAL",RBTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
